@@ -9,9 +9,9 @@ protocol WeatherManagerDelegate {
 
 struct WeatherManager {
     
-    // use https instead of http for security issue
+    // use https instead of http for security issue. Enter your own API_KEY
     let weatherURL =
-   "https://api.openweathermap.org/data/2.5/weather?appid=433342c273da69e45afe531566b3a1c5&units=metric"
+   "https://api.openweathermap.org/data/2.5/weather?appid={API_KEY}&units=metric"
     
     var delegate: WeatherManagerDelegate?
     
