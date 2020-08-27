@@ -1,11 +1,3 @@
-//
-//  WeatherData.swift
-//  Clima
-//
-//  Created by Projects on 8/24/20.
-//  Copyright © 2020 App Brewery. All rights reserved.
-//
-
 import Foundation
 
 // Need "Decodable" protocol when parsing JSON into an object

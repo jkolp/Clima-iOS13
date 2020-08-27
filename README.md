@@ -11,6 +11,7 @@ A dark-mode enabled weather app. You'll be able to check the weather for the cur
 * Swift computed properties.
 * Swift closures and completion handlers.
 * Use URLSession to network and make HTTP requests.
+* Call API from openweathermap.org
 * Parse JSON with the native Encodable and Decodable protocols. 
 * Use Grand Central Dispatch to fetch the main thread.
 * Use Core Location to get the current location from the phone GPS. 
